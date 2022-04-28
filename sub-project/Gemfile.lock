@@ -61,7 +61,7 @@ GEM
     faraday_middleware-aws-sigv4 (0.4.0)
       aws-sigv4 (~> 1.0)
       faraday (>= 0.15)
-    git (1.7.0)
+    git (1.11.0)
       rchardet (~> 1.8)
     httparty (0.18.1)
       mime-types (~> 3.0)
